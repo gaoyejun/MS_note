@@ -1,0 +1,11 @@
+https://editor.codecogs.com/  这个网站可以将输入的公式转化为latax/makdown语法
+
+统一调整文档中所有图片
+<style>
+img{
+    width: 60%;
+    padding-left: 20%;
+}
+</style>
+
+<div align=center><img width = '500' height ='340' src =".\images\屏幕截图2023-08-12180554.png"/></div>
